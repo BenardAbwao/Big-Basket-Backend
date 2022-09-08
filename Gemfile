@@ -40,8 +40,8 @@ gem "require_all", "~> 3.0"
 
   # Automatically reload when there are changes
   # https://github.com/alexch/rerun
-  gem "rerun"
-end
+#   gem "rerun"
+# end
 
 # These gems will only be used when we are running tests
 group :test do
