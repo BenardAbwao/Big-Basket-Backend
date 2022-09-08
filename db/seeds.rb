@@ -123,7 +123,7 @@ puts "🌱 Seeding quotes..."
         content:"Setting goals is the first step in turning the invisible into the visible."
     ) 
      Quote.create(
-        content:"It’s not about better time management. It's about better life management"
+        content:"It's not about better time management. It's about better life management"
     ) 
 
 
