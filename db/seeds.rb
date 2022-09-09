@@ -2,40 +2,47 @@ puts "🌱 Seeding quotes..."
 
 
     Quote.create(
-        content:"The journey of a thousand miles begins with one step.",
+        content:"Though life be lived between birth and death’
+        We hold it true that this world is not our home."
     )
     Quote.create(
-        content:"That which does not kill us makes us stronger."
+        content:"Simple is never complicated. But it’s the hardest to find."
         ) 
     Quote.create(
-        content:"LIFE is what happens when you're busy making other plans."
+        content:"Life is lived in the present for the future but best understood from the past.
+        The beauty of it is to look back and appreciate how you got here."
         )
     Quote.create(
-        content:"When the going gets tough, the tough get going."
+        content:"Everyone ought to carry his own weight and help others if he can.
+        A child is a child but an incompetent man is a beggar, a burden."
     )
     Quote.create(
-        content:"You must be the change you wish to see in the world."
+        content:"It’s not the rate of unemployment that worries me
+        But the number that’s is comfortably underemployed."
     )
     Quote.create(
-        content:"You only live once, but if you do it right, ONCE is enough."
+        content:"Gain all things and in all your gaining
+        Accumulate the blessings and favors of both men and God."
     )
     Quote.create( 
-        content:"Get busy living or get busy dying."
+        content:"Privileges comes with the responsibility of making the most of it"
     )
     Quote.create(
-        content:" Whether you think you can't, you're right."
+        content:" Resignation is not revolt. If you don’t like it
+        Change it from within and without."
     )
     Quote.create(
-        content:"Tis better to have loved and lost than to have never loved at all."
+        content:"Generosity isn’t in the giving of the extra you have, that’s philanthropy.
+        But in the sharing of the little with those who have none."
     ) 
     Quote.create(
-        content:"A man is but what he knows"
+        content:"Khotso ke nala; Peace is prosperity"
     )
     Quote.create(
-        content:"You miss 100 percent of the shots you never take"
+        content:"It’s always beautiful and desired until it’s experienced."
     )
     Quote.create(
-        content:"Strive not to be a success, but rather to be of value."
+        content:"The goal in life is progress, perfection is the end game."
     )
     Quote.create(
             content:"Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do."
