@@ -102,37 +102,8 @@ puts "🌱 Seeding quotes..."
     Quote.create(
         content:"Success is not final, failure is not fatal: it is the courage to continue that counts."
     ) 
-    Quote.create(
-        content:"It is only when we take chances, when our lives improve. The initial and the most difficult risk that we need to take is to become honest."
-    ) 
-     Quote.create(
-        content:"Nature has given us all the pieces required to achieve exceptional wellness and health, but has left it to us to put these pieces together."
-    ) 
-     Quote.create(
-        content:"It is better to fail in originality than to succeed in imitation."
-    ) 
-     Quote.create(
-        content:"Success is getting what you want, happiness is wanting what you get."
-    ) 
-     Quote.create(
-        content:"Don't let yesterday take up too much of today."
-    ) 
-     Quote.create(
-        content:"You learn more from failure than from success. Don't let it stop you. Failure builds character."
-    ) 
-     Quote.create(
-        content:"If you are working on something that you really care about, you don't have to be pushed. The vision pulls you."
-    ) 
-     Quote.create(
-        content:"Experience is a hard teacher because she gives the test first, the lesson afterwards."
-    ) 
-     Quote.create(
-        content:"Setting goals is the first step in turning the invisible into the visible."
-    ) 
-     Quote.create(
-        content:"It's not about better time management. It's about better life management"
-    ) 
-
+    
+     
 
 puts "✅ Done seeding!"
 
